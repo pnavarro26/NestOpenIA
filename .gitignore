@@ -5,6 +5,10 @@
 
 .env
 
+# excluir generated content
+/generated/*
+!/generated/.gitkeep
+
 # Logs
 logs
 *.log
